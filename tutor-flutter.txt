@@ -1,0 +1,13 @@
+Ctrl+Shift+P terus Flutter: Select Device 
+Pilih Android  
+jalanan flutter run di terminal 
+Ctrl+C 
+tambahin: 
+
+assets: 
+    - assets/images/ 
+
+di pubspec.yaml 
+
+buat folder assets/images, terus isi image di dalam 
+jalanin flutter pub get 
